@@ -15,6 +15,10 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  background-image: url("./img/topography.svg"),
+    linear-gradient(110deg, #f93d66, #6d47d9);
+  background-size: 340px, auto;
+  background-attachment: fixed;
 }
 
 .container {
